@@ -7,3 +7,4 @@
         - matrix.js
         - nn.js
         
+  See game-poster in the repo for more information      
